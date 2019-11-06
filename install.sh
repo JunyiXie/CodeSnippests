@@ -1,0 +1,1 @@
+ln -s CodeSnippets /Users/xiejunyi/Library/Developer/Xcode/UserData/CodeSnippets
